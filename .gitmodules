@@ -1,0 +1,3 @@
+[submodule "qemu/qemu-deps"]
+	path = qemu/qemu-deps
+	url = git@github.com:winstonwumbo/qemu-deps.git
